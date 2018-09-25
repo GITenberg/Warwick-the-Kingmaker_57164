@@ -1,0 +1,32 @@
+_repo: Warwick-the-Kingmaker_57164
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Oman, Charles
+    aliases:
+    - Oman, C. W. C. (Charles William Chadwick)
+    - Oman, Charles William Chadwick
+    birthdate: 1860
+    deathdate: 1946
+    gutenberg_agent_id: '39035'
+    url: http://www.gutenberg.org/2009/agents/39035
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Oman
+description: ''
+gutenberg_issued: '2018-05-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57164'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Nobility -- Great Britain -- Biography'
+- !lcsh 'Warwick, Richard Neville, Earl of, 1428-1471'
+- !lcsh 'Great Britain -- Kings and rulers -- Succession'
+- !lcc 'DA'
+- !lcsh 'Great Britain -- Politics and government -- 1399-1485'
+- !lcsh 'Great Britain -- History -- Wars of the Roses, 1455-1485 -- Biography'
+- GITenberg
+title: Warwick, the Kingmaker
+url: http://www.gutenberg.org/ebooks/57164
